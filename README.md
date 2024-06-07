@@ -2,7 +2,7 @@
 
 ## Deskripsi Proyek
 
-Proyek ini bertujuan untuk menghitung nilai pi (ππ) secara numerik menggunakan metode integrasi Reimann pada fungsi f(x)=41+x2f(x)=1+x24​ dari 0 sampai 1. Metode ini diterapkan dengan berbagai jumlah subinterval (N), dan hasilnya dianalisis berdasarkan galat RMS (Root Mean Square) serta waktu eksekusi.
+Proyek ini bertujuan untuk menghitung nilai pi (π) secara numerik menggunakan metode integrasi Reimann pada fungsi f(x)=41+x2f(x)=1+x24​ dari 0 sampai 1. Metode ini diterapkan dengan berbagai jumlah subinterval (N), dan hasilnya dianalisis berdasarkan galat RMS (Root Mean Square) serta waktu eksekusi.
 
 ## Struktur Proyek
 
